@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f67a22b-19f0-4d00-8531-cf883c4ce5aa" name="Changes" comment="day 11">
-      <change afterPath="$PROJECT_DIR$/12/garden_groups.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/garden_plots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/claw_contraption.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/prizes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/find_easter_egg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/restroom_redoubt.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/robots.txt" afterDir="false" />
+    <list default="true" id="1f67a22b-19f0-4d00-8531-cf883c4ce5aa" name="Changes" comment="day 12-14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/guard_gallivant.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06/guard_gallivant.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11/plutonian_pebbles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11/plutonian_pebbles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14/find_easter_egg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733861756262</updated>
       <workItem from="1733861757273" duration="460000" />
-      <workItem from="1733862224251" duration="39060000" />
+      <workItem from="1733862224251" duration="40468000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -119,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733904905317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 12-14">
+      <option name="closed" value="true" />
+      <created>1734212869850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734212869850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +141,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="putting some karl jokes in" />
     <MESSAGE value="day 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 11" />
+    <MESSAGE value="day 12-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 12-14" />
   </component>
 </project>
